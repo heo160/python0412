@@ -1,0 +1,4 @@
+# DemoListTuple
+colors = ["red", "blue", "green"]
+print(type(colors))
+print
